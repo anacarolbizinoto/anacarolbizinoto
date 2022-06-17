@@ -20,6 +20,8 @@ Contato: dev.carolbizinoto@gmail.com
      <img align="center" alt="Carol-HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
      <img align="center" alt="Carol-CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
      <img align="center" alt="Carol-JS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+     <img align="center" alt="Carol-Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+     <img align="center" alt="Carol-GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 </div>
   
   ##
