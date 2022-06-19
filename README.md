@@ -8,11 +8,7 @@ Aqui compartilho alguns códigos que tenho desenvolido, diariamente.
 Será um prazer conversar e contribuir com você.
 ✨
 
-<div align="left">
-  <a href="https://github.com/anacarolbizinoto">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=anacarolbizinoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolbizinoto&layout=compact&langs_count=7&theme=dark">
-</div>
+
   
   
 <div style="display: inline_block"><br>
