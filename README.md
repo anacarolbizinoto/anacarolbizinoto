@@ -4,7 +4,7 @@
 Oi, meu nome é Ana Carolina.
 Trabalho com front-end e
 atualmente estudo JavaScript.
-Aqui compartilho alguns códigos que tenho desenvolido, diariamente.
+Aqui compartilho alguns códigos que tenho desenvolido, semanalmente.
 Será um prazer conversar e contribuir com você.
 ✨
 
