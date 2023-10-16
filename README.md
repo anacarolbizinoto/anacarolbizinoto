@@ -2,10 +2,8 @@
 
 ✨ 
 Oi, meu nome é Ana Carolina.
-Trabalho com front-end e
-atualmente estudo JavaScript.
-Aqui compartilho alguns códigos que tenho desenvolvido.
-Será um prazer conversar e contribuir com você.
+Trabalho com UX e tenho treinado um pouco de desenvolvimento front-end com JavaScript.
+Aqui compartilho alguns códigos, será um prazer conversar e contribuir com você.
 ✨
 
 <div align="left">
